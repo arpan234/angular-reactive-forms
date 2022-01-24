@@ -27,6 +27,10 @@ h1 {
   .city {
     margin-bottom: 10px;
   }
+
+  .btn-grp {
+      margin-top: 20px;
+  }
   
   .submit-btn {
     padding: 0.3em 1.2em;
